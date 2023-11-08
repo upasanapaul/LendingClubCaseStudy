@@ -58,7 +58,10 @@ Give credit here.
 
 
 ## Contact
-Created by Prafulla Mohadikar [@prafullamohadikar], Upasana Paul [@upasanapaul] - feel free to contact us!
+Created by 
+Prafulla Mohadikar [@prafullamohadikar]
+Upasana Paul [@upasanapaul] 
+- feel free to contact us!
 
 
 <!-- Optional -->
