@@ -1,5 +1,4 @@
-# Project Name
-### Lending Club Case Study
+# Lending Club Case Study
 The Lending Club Case Study involves a Consumer Finance Company which specializes in lending various types of loans to urban customers.
 AIM: To identify risky loan applicants to avoid loan allotment to such applicants to reduce amount of Credit Loss.
 Identifying driving factors behind loan defaults i.e. driver variables which are strong indicators of 'deafult'
