@@ -52,15 +52,14 @@ Loan dataset contains the complete loan data for all loans issued through the ti
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
 - This project was inspired by Upgrad Lending Club Case Study
 
 
 ## Contact
 Created by 
-Prafulla Mohadikar [@prafullamohadikar]
-Upasana Paul [@upasanapaul] 
-- feel free to contact us!
+- Prafulla Mohadikar [@prafullamohadikar]
+- Upasana Paul [@upasanapaul] 
+    feel free to contact us!
 
 
 <!-- Optional -->
